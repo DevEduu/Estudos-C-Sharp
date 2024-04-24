@@ -1,0 +1,15 @@
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\bin\Debug\net8.0\EXE01.exe
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\bin\Debug\net8.0\EXE01.deps.json
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\bin\Debug\net8.0\EXE01.runtimeconfig.json
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\bin\Debug\net8.0\EXE01.dll
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\bin\Debug\net8.0\EXE01.pdb
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.AssemblyInfoInputs.cache
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.AssemblyInfo.cs
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.csproj.CoreCompileInputs.cache
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.sourcelink.json
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.dll
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\refint\EXE01.dll
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.pdb
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\EXE01.genruntimeconfig.cache
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE01\obj\Debug\net8.0\ref\EXE01.dll

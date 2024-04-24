@@ -1,0 +1,15 @@
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.AssemblyInfoInputs.cache
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.AssemblyInfo.cs
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.csproj.CoreCompileInputs.cache
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.sourcelink.json
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\bin\Debug\net8.0\EXE02.exe
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\bin\Debug\net8.0\EXE02.deps.json
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\bin\Debug\net8.0\EXE02.runtimeconfig.json
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\bin\Debug\net8.0\EXE02.dll
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\bin\Debug\net8.0\EXE02.pdb
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.dll
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\refint\EXE02.dll
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.pdb
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\EXE02.genruntimeconfig.cache
+C:\Users\Perto-02\Documents\Estudos-C-Sharp\EXE02\obj\Debug\net8.0\ref\EXE02.dll
